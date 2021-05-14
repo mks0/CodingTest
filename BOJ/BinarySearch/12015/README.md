@@ -10,7 +10,7 @@ C++17
 * LIS(Longest increasing Subsequence, 최장 증가 수열) 문제로 이진탐색 이용 필요
 ## 특이사항
 * lower_bound는 binary_search 방식으로 구현된 알고리즘으로 O(logN) 성능임
-  + 정렬된 배열 A를 대상으로 X <= A<sub>i<sub>를 만족하는 최소의 A<sub>i<sub>의 반복자를 반환하는 알고리즘
+  + 정렬된 배열 A를 대상으로 X <= A<sub>i</sub>를 만족하는 최소의 A<sub>i</sub>의 반복자를 반환하는 알고리즘
   + 예) A = {1,3,5}에서 X=4를 lower_bound로 탐색하면 A[2]=5의 반복자를 획득함   
 * LIS 배열을 신규 생성하는 방법으로 접근함
   + LIS 배열을 생성하고 탐색 대상 배열을 순회하며 LIS 배열에 원소를 추가
