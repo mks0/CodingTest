@@ -5,3 +5,4 @@
 * [백준 1300 - right return 사례](https://github.com/mks0/CodingTest/tree/master/BOJ/BinarySearch/1300)
 * [백준 2512 - 예외 조건 삽입 사례](https://github.com/mks0/CodingTest/tree/master/BOJ/BinarySearch/2512)
 * [백준 1072 - 100% 미달 특성 사례](https://github.com/mks0/CodingTest/tree/master/BOJ/BinarySearch/1072)
+* [백준 7453 - 검색 범위 최적화 사례](https://github.com/mks0/CodingTest/tree/master/BOJ/BinarySearch/7453)
