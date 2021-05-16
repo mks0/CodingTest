@@ -1,5 +1,5 @@
 # 수 찾기
-## 문제
+## 문제 링크
 [백준 1920](https://www.acmicpc.net/problem/1920)
 ## 분류
 이진탐색

@@ -1,5 +1,5 @@
 # 예산
-## 문제
+## 문제 링크
 [백준 2512](https://www.acmicpc.net/problem/2512)
 ## 분류
 이진탐색
